@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
-    <line>
-      <![CDATA[Title is not matching expected [true] but found [false]]]>
-    </line>
   </reporter-output>
-  <suite started-at="2024-04-09T16:44:58 IST" name="Default suite" finished-at="2024-04-09T16:45:21 IST" duration-ms="23251">
+  <suite started-at="2024-04-21T21:56:34 IST" name="Default suite" finished-at="2024-04-21T21:56:53 IST" duration-ms="18635">
     <groups>
     </groups>
-    <test started-at="2024-04-09T16:44:58 IST" name="Default test" finished-at="2024-04-09T16:45:21 IST" duration-ms="23251">
-      <class name="apr5.VerifyTtle2">
-        <test-method signature="startTest()[pri:0, instance:apr5.VerifyTtle2@66498326]" started-at="2024-04-09T16:44:58 IST" name="startTest" finished-at="2024-04-09T16:45:21 IST" duration-ms="23183" status="PASS">
+    <test started-at="2024-04-21T21:56:34 IST" name="Default test" finished-at="2024-04-21T21:56:53 IST" duration-ms="18635">
+      <class name="apr18.PropertyFile">
+        <test-method signature="startTest()[pri:0, instance:apr18.PropertyFile@932bc4a]" started-at="2024-04-21T21:56:34 IST" name="startTest" finished-at="2024-04-21T21:56:53 IST" duration-ms="18565" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[Title is not matching expected [true] but found [false]]]>
-            </line>
           </reporter-output>
         </test-method> <!-- startTest -->
-      </class> <!-- apr5.VerifyTtle2 -->
+      </class> <!-- apr18.PropertyFile -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
